@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<periodicals xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xmlns="http://www.example.org/periodicals">
+    <periodical id="1">
+        <type>
+            <journal>
+                <index>4445</index>
+            </journal>
+        </type>
+        <title>Times</title>
+        <monthly>true</monthly>
+        <chars>
+            <color>false</color>
+            <pages>1</pages>
+            <glossy>false</glossy>
+        </chars>
+    </periodical>
+    <periodical id="2">
+        <type>
+            <newspaper>
+                <index>538209</index>
+            </newspaper>
+        </type>
+        <title>Glamour</title>
+        <monthly>true</monthly>
+        <chars>
+            <color>true</color>
+            <pages>100</pages>
+            <glossy>true</glossy>
+        </chars>
+    </periodical>
+    <periodical id="3">
+        <type>
+            <booklet>booklet</booklet>
+        </type>
+        <title>Advertising</title>
+        <monthly>false</monthly>
+        <chars>
+            <color>true</color>
+            <pages>5</pages>
+            <glossy>true</glossy>
+        </chars>
+    </periodical>
+</periodicals>
